@@ -8,10 +8,13 @@
 2. [About Doccana](#about-doccana)  
 3. [Installation and Quickstart](#installation-and-quickstart)  
 4. [Project Architecture](#project-architecture)  
-5. [Directory Structure](#directory-structure)  
-6. [Contribution](#contribution)  
-7. [License and Citation](#license-and-citation)  
-8. [Contact](#contact)  
+5. [Tech Stack](#tech-stack)  
+6. [Directory Structure](#directory-structure)  
+7. [Contribution](#contribution)  
+8. [Original Repository](#original-repository)  
+9. [My Contribution](#my-contribution)  
+10. [License and Citation](#license-and-citation)  
+11. [Contact](#contact)  
 
 ---
 
@@ -128,6 +131,15 @@ docker-compose -f docker/docker-compose.prod.yml up --build
 
 ---
 
+## Tech Stack
+
+- Backend: Django, Django REST Framework
+- Frontend: Vue.js, Nuxt.js
+- Database: PostgreSQL / SQLite
+- DevOps: Docker
+
+---
+
 ## Directory Structure
 
 ```txt
@@ -151,6 +163,22 @@ docker-compose -f docker/docker-compose.prod.yml up --build
 5. Push and open a Pull Request.  
 
 See the official contribution guide: https://github.com/doccano/doccano/wiki/How-to-Contribute-to-Doccano-Project.
+
+---
+
+## Original Repository
+
+This project was developed as part of a group assignment:
+
+https://github.com/a76967/Software-Engineering-Lab
+
+
+## My Contribution
+
+- Backend development (user management, annotation logic)
+- Disagreement resolution features
+- Reporting system implementation
+- Collaboration on frontend integration
 
 ---
 
